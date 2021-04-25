@@ -1,0 +1,7 @@
+html, body{
+    height: 100%;
+    margin: 0;;
+}
+body{
+    background-image: -o-linear-gradient(to right top, white, aqua, teal, darkblue);
+}
